@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33646" started-at="2020-01-31T05:31:25Z" finished-at="2020-01-31T05:31:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33646" started-at="2020-01-31T05:31:25Z" finished-at="2020-01-31T05:31:58Z">
+      <class name="com.training.sanity.tests.Administration_DelCoursesCategories">
+        <test-method status="PASS" signature="setUpBeforeTest()[pri:0, instance:com.training.sanity.tests.Administration_DelCoursesCategories@68c4039c]" name="setUpBeforeTest" is-config="true" duration-ms="17672" started-at="2020-01-31T05:31:25Z" finished-at="2020-01-31T05:31:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTest -->
+        <test-method status="PASS" signature="validLoginTest()[pri:1, instance:com.training.sanity.tests.Administration_DelCoursesCategories@68c4039c]" name="validLoginTest" duration-ms="5626" started-at="2020-01-31T05:31:42Z" finished-at="2020-01-31T05:31:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method status="PASS" signature="administrationDelCourseCategory()[pri:2, instance:com.training.sanity.tests.Administration_DelCoursesCategories@68c4039c]" name="administrationDelCourseCategory" duration-ms="8354" started-at="2020-01-31T05:31:48Z" finished-at="2020-01-31T05:31:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- administrationDelCourseCategory -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.Administration_DelCoursesCategories@68c4039c]" name="tearDown" is-config="true" duration-ms="1950" started-at="2020-01-31T05:31:56Z" finished-at="2020-01-31T05:31:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.training.sanity.tests.Administration_DelCoursesCategories -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
